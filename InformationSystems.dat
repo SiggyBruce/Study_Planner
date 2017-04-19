@@ -1,0 +1,28 @@
+0 0 CORE 101 3 University Core A: Core 101	
+0 1 ITEC 110 3 Introduction to Information Technology
+0 2 ITEC 120 4 Principles of Computer Science I
+0 3 MATH 126 3 Business Calculus
+0 4 UNIV 100 1 University 100
+1 0 CORE 102 3 University Core A: Core 102	
+1 1 STAT 200 3 Introduction to Statistics
+1 2 ITEC 220 4 Principles of Computer Science II
+1 3 BLAW 203 3 Introduction to Business Law
+2 0 CORE 201 3 University Core A: Core 201
+2 1 ACTG 211 3 Principles of Accounting I 
+2 2 ITEC 225 3 Principles of Web Development I
+2 3 ECON 105 3 Principles of Macroeconomics
+3 0 CORE 202 3 University Core A: Core 202
+3 1 ITEC 281 3 Data Management and Analysis with Spreadsheets
+3 2 ACTG 212 3 Principles of Accounting II
+3 3 ECON 106 3 Principles of Microeconomics
+4 0 ITEC 340 3 Database I
+4 1 ITEC 345 3 Introduction to Information Security
+4 2 MGNT 333 3 Strategic Decision Support
+4 3 MKTG 340 3 Essentials of Marketing
+5 0 ITEC 370 3 Software Engineering I
+5 1 MGNT 357 3 Operations Management
+5 2 MGNT 322 3 Organizational Behavior
+6 0 ITEC 485 3 Decision Support Systems
+6 1 FINC 331 3 Introduction to Business Finance
+6 2 ITEC 490 1 Senior Seminar
+7 0 ITEC 495 3 Senior Capstone
